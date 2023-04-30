@@ -1,0 +1,45 @@
+.ModalAndSearch{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.ModalAndSearch .inputserach{
+    border: none;
+    background-color: rgba(0, 255, 255, 0.438);
+    outline: none;
+    border-radius: 20px;
+    height: 35px;
+    width: 250px;
+    padding: 10px;
+}
+.tableDiv{
+
+    height: 65vh;
+    overflow-y: scroll;
+}
+.input_modal{
+    background: none;
+}
+.blockClass{
+    transition: 1s;
+    background-color: red;
+}
+::-webkit-scrollbar{
+    background-color: grey;
+    border-radius: 20px;
+    height: 50px;
+}
+::-webkit-scrollbar-button{
+   background-color: blue;
+   display: none;
+}
+::-webkit-scrollbar-track{
+    background-color: lightsteelblue;
+    border-radius: 20px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(52, 52, 209);
+    border-radius: 100px;
+}

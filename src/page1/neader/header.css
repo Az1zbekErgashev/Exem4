@@ -1,0 +1,43 @@
+.Bigsearch{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(190, 241, 241);
+    align-items: center;
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+    padding:  0 10px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.Bigsearch input{
+    outline:none;
+    border: none;
+    width: 500px;
+    height: 40px;
+
+    padding: 10px;
+    background:none;
+}
+.Bigsearch i {
+    font-size: 23px;
+    color: blue;
+}
+.personBel i{
+ font-size: 30px;
+ height: 40px;
+    margin: 0 10px;
+ justify-content: center;
+ align-items: center;
+ color: blue;
+}
+.personBel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    padding: 0 20px;
+}

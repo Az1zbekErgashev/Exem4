@@ -1,0 +1,10 @@
+.page2{
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 82%;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: white;
+}
